@@ -13,13 +13,13 @@ window.WEDDING_CONFIG = {
     ogTitle:           'Ajmi Nazar & Muhammed Ashiq | Nikkah Invitation',
     ogDescription:     'You are cordially invited to the Nikkah ceremony of Ajmi Nazar & Muhammed Ashiq — 27 September 2027.',
     ogImage:           'og-image.jpg',
-    canonicalUrl:      'https://ajmi-muhammed.vercel.app/',
+    canonicalUrl:      'https://ajmi-ashiq.vercel.app/',
     themeColor:        '#C8A96A',
   },
 
   /* ── COUPLE ─────────────────────────────────────────────── */
   groom: {
-    firstName:         'Muhammed',
+    firstName:         'Ashiq',
     fullName:          'Muhammed Ashiq',
     role:              'The Groom',
     parentLabel:       'Beloved Son of',
