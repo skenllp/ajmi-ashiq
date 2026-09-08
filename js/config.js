@@ -8,10 +8,10 @@ window.WEDDING_CONFIG = {
 
   /* ── SEO & METADATA ─────────────────────────────────────── */
   seo: {
-    title:             'Ajmi Nazar & Muhammed Ashiq | Nikkah Invitation',
-    description:       'With the blessings of Allah, join us in celebrating the Nikkah of Ajmi Nazar & Muhammed Ashiq — Sunday, 27 September 2027 at Central Jum\'a Masjid Hall, Kalampoor, Muvattupuzha.',
-    ogTitle:           'Ajmi Nazar & Muhammed Ashiq | Nikkah Invitation',
-    ogDescription:     'You are cordially invited to the Nikkah ceremony of Ajmi Nazar & Muhammed Ashiq — 27 September 2027.',
+    title:             'Muhammed Ashiq & Ajmi Nazar | Nikkah Invitation',
+    description:       'With the blessings of Allah, join us in celebrating the Nikkah of Muhammed Ashiq & Ajmi Nazar — Sunday, 27 September 2026 at Central Jum\'a Masjid Hall, Kalampoor, Muvattupuzha.',
+    ogTitle:           'Muhammed Ashiq & Ajmi Nazar | Nikkah Invitation',
+    ogDescription:     'You are cordially invited to the Nikkah ceremony of Muhammed Ashiq & Ajmi Nazar — 27 September 2026.',
     ogImage:           'og-image.jpg',
     canonicalUrl:      'https://ajmi-ashiq.vercel.app/',
     themeColor:        '#C8A96A',
@@ -51,15 +51,15 @@ window.WEDDING_CONFIG = {
 
   /* ── DATES ───────────────────────────────────────────────── */
   dates: {
-    displayRange:      '27 September 2027',
-    displayDot:        '27 · 09 · 2027',
+    displayRange:      '27 September 2026',
+    displayDot:        '27 · 09 · 2026',
   },
 
   /* ── COUNTDOWN ───────────────────────────────────────────── */
   countdown: {
     nikkah: {
       label:   'Nikkah Ceremony',
-      target:  '2027-09-27T11:00:00',
+      target:  '2026-09-27T11:00:00',
     },
   },
 
@@ -71,13 +71,13 @@ window.WEDDING_CONFIG = {
       title:     'Nikkah',
       icon:      'fas fa-mosque',
       dayName:   'Sunday',
-      date:      '27 September 2027',
+      date:      '27 September 2026',
       time:      '11:00 AM',
       venue: {
         name:    "CENTRAL JUM'A MASJID HALL",
         address: 'Kalampoor, Muvattupuzha',
       },
-      mapsUrl:   "https://www.google.com/maps/search/?api=1&query=Central+Jum%27a+Masjid+Hall%2C+Kalampoor%2C+Muvattupuzha",
+      mapsUrl:   "https://maps.app.goo.gl/D9Mr4HoAkuYQdL6M8?g_st=aw",
       mapsLabel: 'Open Google Maps',
     },
   ],
@@ -100,7 +100,7 @@ window.WEDDING_CONFIG = {
      You'll be asked for this password once per browser session.
      CHANGE THIS to something only you know before sharing the link. */
   admin: {
-    password: 'AjmiMuhammed2027',
+    password: 'AshiqAjmi2026',
   },
 
 };

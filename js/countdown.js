@@ -4,7 +4,7 @@
   'use strict';
 
   var cfg        = (window.WEDDING_CONFIG || {}).countdown || {};
-  var NIKKAH     = new Date(cfg.nikkah    && cfg.nikkah.target    || '2027-09-27T11:00:00');
+  var NIKKAH     = new Date(cfg.nikkah    && cfg.nikkah.target    || '2026-09-27T11:00:00');
 
   function pad(num) {
     return String(num).padStart(2, '0');
