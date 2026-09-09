@@ -46,7 +46,7 @@ window.WEDDING_CONFIG = {
     hostName:          'Mr. Nazar P.K & Mrs. Shereefa Nazar',
     hostTitle:         'solicit your esteemed presence with your family',
     inviteIntro:       'on the occasion of the Nikkah ceremony of our beloved',
-    navLogo:           'A & M',
+    navLogo:           'M & N',
   },
 
   /* ── DATES ───────────────────────────────────────────────── */
